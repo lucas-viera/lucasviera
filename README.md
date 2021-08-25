@@ -15,7 +15,7 @@
     C
     Java
 
--Currently Learning:
+- Currently Learning:
     PHP
     HTML + CSS
     JavaScript
