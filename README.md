@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @lucasviera22,
+- 👋 Hi, I’m @lucasviera22, 
 
-- 👀 I’m interested in Network Engineering, Web Programming & Ethical Hacking
+- 🌱 I’m currently learning web development so I can switch paths and start working on my portfolio.
 
-- 🌱 I’m currently learning front and back end programming so I can get a general understanding on how web apps work.
+- 👀 I began my career as Network Engineer being a Telecommunication Engineer student. Then I developed a taste for Web Programming & Cybersecurity in general.
 
 - Certifications: 
+    Python (PCEP)
     Azure Fundamentals
     ITIL Foundation
     Cisco Renewals Manager
@@ -13,9 +14,15 @@
     Python
     C
     Java
+
+-Currently Learning:
+    PHP
+    HTML + CSS
+    JavaScript
+    React JS
+    Node JS
+    Docker
     
-- I’m planning to finish Telecomunications Engineering degree so I can focus on gaining experience as a network engineer. 
+- I’m planning to finish Telecomunications Engineering degree so I can focus on what I actually enojoy. 
 
-- I´m studying to obtain CCNA Certification and AWS CCP. Next steps include Security+, Cisco CyberOps, Pentest+ and more
-
-- 📫 How to reach me: https://www.linkedin.com/in/lucasviera/
+- 📫 Contact me: https://www.linkedin.com/in/lucasviera/
