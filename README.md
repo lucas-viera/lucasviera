@@ -5,10 +5,10 @@
 - I began my career as a Telecommunication Engineer student. A couple of years later, I developed a taste for Web Programming & Cybersecurity.
 
 - Certifications: 
-    Python (PCEP)
-    Azure Fundamentals (AZ-900)
-    ITIL Foundation Certification
-    Cisco Renewals Manager
+    -- Python (PCEP)
+    -- Azure Fundamentals (AZ-900)
+    -- ITIL Foundation Certification
+    -- Cisco Renewals Manager
     
 - Good with:
     Python
