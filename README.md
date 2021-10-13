@@ -14,17 +14,18 @@
     * Python
     * C
     * Java
+    * Docker
 
 * Currently Learning:
     * HTML + CSS
-    * JavaScript
+    * JavaScript + React JS
     * Node JS
     * Express JS
     * Mongo DB & Postgre SQL
 
 * Future
-    * React JS
-    * Angular JS
+    * Docker
+    * Project Management
     * Blockchain
 
 * I’m planning to finish Telecomunications Engineering degree in 2021 so I can focus on what I actually enjoy the most: software development. 
