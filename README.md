@@ -16,11 +16,10 @@
     * Java
     * Docker
 
-* Currently Learning:
+* Currently Learning MERN Stack technologies:
     * HTML + CSS
     * JavaScript + React JS
-    * Node JS
-    * Express JS
+    * Node JS + Express
     * Mongo DB & Postgre SQL
 
 * Future
