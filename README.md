@@ -27,6 +27,6 @@
     * Project Management
     * Blockchain
 
-* I’m planning to finish Telecomunications Engineering degree in 2021 so I can focus on what I actually enjoy the most: software development. 
+* I’m planning to complement my studies with Project Management and Leadership programs because I find It amazing to be able to orchestrate teams and projects
 
 * 📫 Contact me: https://www.linkedin.com/in/lucasviera/
