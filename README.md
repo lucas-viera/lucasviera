@@ -1,4 +1,4 @@
-* :raising_hand_man:	 Hi, I’m Lucas Viera. Feel free to reach me via [Linkedin][linkedin] :inbox_tray:	
+* :raising_hand_man:	 Hi, I’m Lucas Viera. Feel free to reach me via [Linkedin][1] :inbox_tray:	
 
 * I began my career as a Telecommunication Engineer :satellite:	 student but during my working year on my **Final Project**, I realized I really loved creating projects with Software. From that point, my focus was to finish Telecom ASAP :hourglass_flowing_sand: so I could change paths and start learning.
 
@@ -48,4 +48,4 @@
 - :guitar:	:musical_score:	
 
 
-[linkedin]:[https://www.linkedin.com/in/lucasviera/]
+[1]:[https://www.linkedin.com/in/lucasviera/]
