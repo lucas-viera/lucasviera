@@ -48,4 +48,4 @@
 - :guitar:	:musical_score:	
 
 
-[1]:[https://www.linkedin.com/in/lucasviera/]
+[1]:https://www.linkedin.com/in/lucasviera/
