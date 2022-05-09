@@ -1,6 +1,6 @@
 * :raising_hand_man:	 Hi, I’m Lucas Viera. Feel free to reach me via [Linkedin][1] :inbox_tray:	
 
-* I began my career as a Telecommunication Engineer :satellite:	 student but during my working year on my **Final Project**, I realized I really loved creating projects with Software. From that point, my focus was to finish Telecom ASAP :hourglass_flowing_sand: so I could change paths and start learning.
+* I began my career as a Telecommunication Engineer :satellite:	student but after a year working on my **Final Project**, I realized I really loved creating projects using Software. From that point, my focus was to finish Telecom ASAP :hourglass_flowing_sand: so I could switch paths and start learning.
 
 * I’m currently stydying to become a Software Engineer :man_technologist: while I gain more and more experience working.
 
