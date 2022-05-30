@@ -1,10 +1,10 @@
 * :raising_hand_man:	 Hi, I’m Lucas Viera. Feel free to reach me via [Linkedin][1] :inbox_tray:	
 
-* I began my career as a Telecommunication Engineer :satellite:	student but after a year working on my **Final Project**, I realized I really loved creating projects using Software. From that point, my focus was to finish Telecom ASAP :hourglass_flowing_sand: so I could switch paths and start learning.
+* I began my career as a Telecommunication Engineer :satellite:	student but after a year working on my **Final Project**, I realized I really loved creating projects using Software. From that point, my focus was to finish Telecom ASAP :hourglass_flowing_sand: so I could switch paths and start studying Software Engineering.
 
 * I’m currently stydying to become a Software Engineer :man_technologist: while I gain more and more experience working.
 
-* :trophy: I must say I never stopped looking for new ways to growth professionally. :star: I aspire to become a better version of myself within each experience 
+* :trophy: I must say I never stopped looking for new ways to growth professionally. :star: I aspire to become a better version of myself within each experience.
 
 * :thought_balloon: I’m planning to complement my growth with Management and Leadership Skills. I strongly believe such abilities are very helpful and. Also, I believe my diverse experience in IT, Telecommunications and Software can help me to grow into a Management position as the years go by.
     
