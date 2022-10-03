@@ -9,27 +9,28 @@
 * :thought_balloon: I’m planning to complement my growth with Management and Leadership Skills. I strongly believe such abilities are very helpful and. Also, I believe my diverse experience in IT, Telecommunications and Software can help me to grow into a Management position as the years go by.
     
 * :white_check_mark:	I'm experienced with
-    * Python
     * JavaScript
-    * Docker
+    * React JS 
     * Node.js
+    * Python
+    * Docker
+    * Java
 
 * :heavy_check_mark:	Pending to learn deeper
-    * Django
-    * React JS
-    * DevOps
+    * DevOps & Cloud
     * Project Management
     * Blockchain
+    * Django
 
 * Also learned:
-    * Java
     * C
     * HTML
     * CSS
 
 * Certifications: 
-    * Python Certified Entry-Level Programmer (PCEP)
+    * Amazon Web Services Certified Cloud Practitioner (CLF-C01)
     * Azure Fundamentals (AZ-900)
+    * Python Certified Entry-Level Programmer (PCEP)
     * ITIL Foundation Certification
     * Cisco Renewals Manager
 
