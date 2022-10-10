@@ -35,7 +35,7 @@
     * Cisco Renewals Manager
 
 * :sweat_smile:	**Hobbies & Fun Facts About Me** (:exploding_head: it's ok if you don't understand it all at once 	) 
-- :round_pushpin:	:uruguay:	:argentina:	:brazil:	:it:	
+- :round_pushpin:	:uruguay:	:argentina:	:brazil:	:it:	:mx:
 - :swimming_man:	:rowing_man:	:biking_man:	:sailboat:	:diving_mask:	:soccer:	
 - :dog:	:cat2:	
 - :heart_eyes:	:t-rex: :woman_scientist:	:stethoscope:		:cactus:	:test_tube:	:dna:	
