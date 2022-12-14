@@ -2,11 +2,11 @@
 
 * I began my career as a Telecommunication Engineer :satellite:	student but after a year working on my **Final Project**, I realized I really loved creating projects using Software. From that point, my focus was to finish Telecom ASAP :hourglass_flowing_sand: so I could switch paths and start studying Software Engineering.
 
-* I’m currently stydying to become a Software Engineer :man_technologist: while I gain more and more experience working.
+* I’m currently stydying to become a Software Engineer :man_technologist: while I gain more and more experience working and creating projects on my own as you'll see in my [Github profile][2].
 
 * :trophy: I must say I never stopped looking for new ways to growth professionally. :star: I aspire to become a better version of myself within each experience.
 
-* :thought_balloon: I’m planning to complement my growth with Management and Leadership Skills. I strongly believe such abilities are very helpful and. Also, I believe my diverse experience in IT, Telecommunications and Software can help me to grow into a Management position as the years go by.
+* :thought_balloon: I’m planning to complement my growth with Management and Leadership Skills. I strongly believe such abilities are very helpful. Also, I believe my diverse experience in IT, Telecommunications and Software can help me to grow into a Product or Project Management position as the years go by.
     
 * :white_check_mark:	I've worked with
     * JavaScript
@@ -51,3 +51,4 @@
 
 
 [1]:https://www.linkedin.com/in/lucasviera/
+[2]:https://github.com/lucas-viera?tab=repositories
