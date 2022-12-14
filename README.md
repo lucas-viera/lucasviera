@@ -8,24 +8,25 @@
 
 * :thought_balloon: I’m planning to complement my growth with Management and Leadership Skills. I strongly believe such abilities are very helpful and. Also, I believe my diverse experience in IT, Telecommunications and Software can help me to grow into a Management position as the years go by.
     
-* :white_check_mark:	I'm experienced with
+* :white_check_mark:	I've worked with
     * JavaScript
     * React JS 
     * Node.js
     * Python
-    * Docker
     * Java
+    * Docker
 
-* :heavy_check_mark:	Pending to learn deeper
+* :heavy_check_mark:	Planning to learn deeper
     * DevOps & Cloud
     * Project Management
     * Blockchain
-    * Django
+    * Django & Flask
 
 * Also learned:
-    * C
     * HTML
     * CSS
+    * C
+
 
 * Certifications: 
     * Amazon Web Services Certified Cloud Practitioner (CLF-C01)
@@ -34,7 +35,7 @@
     * ITIL Foundation Certification
     * Cisco Renewals Manager
 
-* :sweat_smile:	**Hobbies & Fun Facts About Me** (:exploding_head: it's ok if you don't understand it all at once 	) 
+* :sweat_smile:	**Hobbies & Fun Facts About Me** (:exploding_head: it's ok if you don't understand it all at once, I'll share all about it as I'm a very open person!) 
 - :round_pushpin:	:uruguay:	:argentina:	:brazil:	:it: :mexico:
 - :swimming_man:	:rowing_man:	:biking_man:	:sailboat:	:diving_mask:	:soccer:	
 - :dog:	:cat2:	
