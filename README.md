@@ -17,10 +17,9 @@
     * Docker
 
 * :heavy_check_mark:	Planning to learn deeper
+    * Management (Products and Projects)
+    * Springboot
     * DevOps & Cloud
-    * Project Management
-    * Blockchain
-    * Django & Flask
 
 * Also learned:
     * HTML
